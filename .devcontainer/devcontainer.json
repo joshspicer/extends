@@ -1,0 +1,9 @@
+{
+    "forwardPorts": [
+        2222
+    ],
+    "hostRequirements": {
+        "memory": "32gb"
+    },
+    "onCreateCommand": ".devcontainer/on-create-command.sh"
+}

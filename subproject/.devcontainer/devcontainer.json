@@ -1,0 +1,11 @@
+{
+    "name": "example/project",
+    "forwardPorts": [
+        80,
+        5432
+    ],
+    "hostRequirements": {
+        "storage": "64gb",
+        "memory": "16gb"
+    }
+}
