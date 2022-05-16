@@ -7,7 +7,7 @@
 ```bash
 $ devcontainer merge \
     --workspace-folder .  \
-    --sub-folder ./node
+    --sub-folder ./subproject
 
 ```
 
